@@ -23,5 +23,6 @@ Rodando o projeto:
  ```
 Logo após:
  ```
+ ./microwaveOven
  gtkwave microwaveOven_tb.vcd
  ```
